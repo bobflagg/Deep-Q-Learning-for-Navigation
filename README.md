@@ -9,20 +9,26 @@ A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Given this information, the agent has to learn how to best select actions. Four discrete actions are available, corresponding to:
 
 - [**0**] move forward.
-- [1] move backward.
-- [2] turn left.
-- [3] turn right.
+- [**1**] move backward.
+- [**2**] turn left.
+- [**3**] turn right.
 
 The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.
 
 ## Getting Started
 
-If you would like to run this notebook locally, you'll need to set up your environment as follows:
+If you would like to run this code locally follow the instructions below.
 
-1. Follow the [instructions](https://github.com/udacity/deep-reinforcement-learning) from the [Deep Reinforcement Learning Nanodegree program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) to set up your Python environment. 
-2. [Mac OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
-3. 
-
+1. Set up your Python environment as described the dependencies section of the [readme](https://github.com/udacity/deep-reinforcement-learning) from the [Deep Reinforcement Learning Nanodegree program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). 
+2. Clone this repository.
+3. Create a directory called "data" at the root of the cloned repository.
+4. Select the environment that matches your operating system from the list below:
+  - Linux: click here
+  - Mac OSX: click here
+  - Windows (32-bit): click here
+  - Windows (64-bit): click here
+Then, place the file in the data folder.
+5. Unzip (or decompress) the file.
 
 ## Instructions
 
