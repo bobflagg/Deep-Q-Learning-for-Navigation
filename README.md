@@ -1,5 +1,5 @@
 # Deep-Q-Learning-for-Navigation
-My solution for Project 1 from [Udacity's Deep Reinforcement Learning Nanodegree Program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).  I've organized the code into there Python modules, which contain code common to the various implementation given to solve the navigation problem, and four Jupyter notebooks containing increasingly more efficient solutions.
+My solutions for Project 1 from [Udacity's Deep Reinforcement Learning Nanodegree Program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).  I've organized the code into there Python modules, which contain code common to the various solutions, and four Jupyter notebooks containing increasingly more efficient implementations.
 
 ## Python Modules
 
