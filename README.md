@@ -47,3 +47,10 @@ You can train an agent to solve the Navigation Environment by executing the cell
 ## Additional Resources
 
 - [Self Learning AI-Agents Part II: Deep Q-Learning](https://towardsdatascience.com/self-learning-ai-agents-part-ii-deep-q-learning-b5ac60c3f47)
+- [double DQN](https://arxiv.org/pdf/1509.06461.pdf)
+- [dueling DQN](https://arxiv.org/pdf/1511.06581.pdf)
+- [prioritized experience replay](https://arxiv.org/pdf/1511.05952.pdf)
+
+## MISC
+
+In follow up notebooks I'll improve on this solution by implementing a  [double DQN](https://arxiv.org/pdf/1509.06461.pdf), a [dueling DQN](https://arxiv.org/pdf/1511.06581.pdf), and [prioritized experience replay](https://arxiv.org/pdf/1511.05952.pdf).
