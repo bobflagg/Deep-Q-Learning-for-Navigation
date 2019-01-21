@@ -32,7 +32,7 @@ If you would like to run this code locally follow the instructions below.
 
 ## Instructions
 
-I've organized the code into three Python modules, which contain code common to the various solutions, and four Jupyter notebooks containing increasingly more efficient solutions.
+I've organized the code into three Python modules, which contain code common to the various solutions, and three Jupyter notebooks containing increasingly more interesting solutions.
 
 1. **Python Modules**
     - [model.py](https://github.com/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/model.py): implements an actor policy model as a simple neural network.
