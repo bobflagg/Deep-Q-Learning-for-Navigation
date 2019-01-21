@@ -1,0 +1,30 @@
+\begin{thebibliography}{\protect\citename{Espeholt et~al\mbox{.} }2018}
+
+\bibitem[\protect\citename{Espeholt et~al\mbox{.}
+  }2018]{DBLP:journals/corr/abs-1802-01561}
+{\sc Espeholt, L., Soyer, H., Munos, R., Simonyan, K., Mnih, V., Ward, T.,
+  Doron, Y., Firoiu, V., Harley, T., Dunning, I., Legg, S., and Kavukcuoglu,
+  K.}
+\newblock 2018.
+\newblock {IMPALA:} scalable distributed deep-rl with importance weighted
+  actor-learner architectures.
+\newblock {\em CoRR abs/1802.01561\/}.
+
+\bibitem[\protect\citename{Mnih et~al\mbox{.}
+  }2015]{DBLP:journals/nature/MnihKSRVBGRFOPB15}
+{\sc Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A.~A., Veness, J., Bellemare,
+  M.~G., Graves, A., Riedmiller, M.~A., Fidjeland, A., Ostrovski, G., Petersen,
+  S., Beattie, C., Sadik, A., Antonoglou, I., King, H., Kumaran, D., Wierstra,
+  D., Legg, S., and Hassabis, D.}
+\newblock 2015.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em Nature 518}, 7540, 529--533.
+
+\bibitem[\protect\citename{Wang et~al\mbox{.}
+  }2015]{DBLP:journals/corr/WangFL15}
+{\sc Wang, Z., de~Freitas, N., and Lanctot, M.}
+\newblock 2015.
+\newblock Dueling network architectures for deep reinforcement learning.
+\newblock {\em CoRR abs/1511.06581\/}.
+
+\end{thebibliography}
