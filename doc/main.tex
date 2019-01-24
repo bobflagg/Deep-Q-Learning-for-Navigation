@@ -150,7 +150,7 @@ where $\theta^-$ representes the parameters of a fixed and separate {\em target 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=3.0in]{images/dqn-scores}
-	\caption{Scores for Deep Q-Learning for Navigation}
+	\caption{Scores for Deep Q-Learning}
 	\label{fig:ferrari}
 \end{figure}
 \FloatBarrier
@@ -167,7 +167,7 @@ $$ y_i^{DDQN}=R_i+\gamma\cdot Q(s',  \operatorname{arg\,max}_{a'} Q(s',a'|\theta
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=3.0in]{images/double-dqn-scores}
-	\caption{Scores for Double Deep Q-Learning for Navigation}
+	\caption{Scores for Double Deep Q-Learning}
 	\label{fig:ferrari}
 \end{figure}
 
@@ -190,6 +190,14 @@ The estimate of the action-value function is then
 $$Q(s,a|\theta, \alpha, \beta) = V(s|\theta, \beta) - \big(A(s,a|\theta, \alpha) - \frac{1}{{\cal |A|}}\sum_{a'}A(s, a'|\theta, \alpha)\big).$$
 
 {\bf Note:} I don't use convolution in the network for the Unity ML-Agent Banana Collector so there are no shared $\theta$ parameters in this example.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=3.0in]{images/dueling-dqn-scores}
+	\caption{Scores for Dueling Double  Deep Q-Learning}
+	\label{fig:ferrari}
+\end{figure}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Deep Q-Learning for Navigation                                                                                                %%

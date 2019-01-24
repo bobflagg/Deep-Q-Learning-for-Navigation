@@ -48,6 +48,7 @@ def train(env, agent, n_episodes=2000, max_t=1000, eps_start=1.0, eps_end=0.01, 
     fig = plt.figure()
     ax = fig.add_subplot(111)
     plt.plot(np.arange(len(scores)), scores)
+    plt.axhline(y=13, color='r', linestyle='-')
     plt.ylabel('Score')
     plt.xlabel('Episode #')
     plt.show()
