@@ -1,14 +1,4 @@
-\begin{thebibliography}{\protect\citename{Espeholt et~al\mbox{.} }2018}
-
-\bibitem[\protect\citename{Espeholt et~al\mbox{.}
-  }2018]{DBLP:journals/corr/abs-1802-01561}
-{\sc Espeholt, L., Soyer, H., Munos, R., Simonyan, K., Mnih, V., Ward, T.,
-  Doron, Y., Firoiu, V., Harley, T., Dunning, I., Legg, S., and Kavukcuoglu,
-  K.}
-\newblock 2018.
-\newblock {IMPALA:} scalable distributed deep-rl with importance weighted
-  actor-learner architectures.
-\newblock {\em CoRR abs/1802.01561\/}.
+\begin{thebibliography}{\protect\citename{van Hasselt et~al\mbox{.} }2015}
 
 \bibitem[\protect\citename{Mnih et~al\mbox{.}
   }2015]{DBLP:journals/nature/MnihKSRVBGRFOPB15}
@@ -19,6 +9,19 @@
 \newblock 2015.
 \newblock Human-level control through deep reinforcement learning.
 \newblock {\em Nature 518}, 7540, 529--533.
+
+\bibitem[\protect\citename{Sutton and Barto }1998]{DBLP:books/lib/SuttonB98}
+{\sc Sutton, R.~S., and Barto, A.~G.}
+\newblock 1998.
+\newblock {\em Reinforcement learning - an introduction}.
+\newblock Adaptive computation and machine learning. {MIT} Press.
+
+\bibitem[\protect\citename{van Hasselt et~al\mbox{.}
+  }2015]{DBLP:journals/corr/HasseltGS15}
+{\sc van Hasselt, H., Guez, A., and Silver, D.}
+\newblock 2015.
+\newblock Deep reinforcement learning with double q-learning.
+\newblock {\em CoRR abs/1509.06461\/}.
 
 \bibitem[\protect\citename{Wang et~al\mbox{.}
   }2015]{DBLP:journals/corr/WangFL15}
