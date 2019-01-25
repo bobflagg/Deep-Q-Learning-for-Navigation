@@ -34,9 +34,9 @@ If you would like to run this code locally follow the instructions below.
 
 This repo has three Jupyter notebooks containing increasingly more interesting solutions to the [Unity ML Banana-Collector environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector) using extentions to [Q-learning](http://www.cs.rhul.ac.uk/~chrisw/new_thesis.pdf). 
 
-    - [Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/01-Deep-Q-Learning-for-Navigation.ipynb)
-    - [Double Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/02-Double-Deep-Q-Learning-for-Navigation.ipynb)
-    - [Dueling Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/03-Dueling-Deep-Q-Learning-for-Navigation.ipynb)
+- [Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/01-Deep-Q-Learning-for-Navigation.ipynb)
+- [Double Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/02-Double-Deep-Q-Learning-for-Navigation.ipynb)
+- [Dueling Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/03-Dueling-Deep-Q-Learning-for-Navigation.ipynb)
 
 You can train an agent to solve the Navigation Environment by executing the cells in the corresponding notebooks.
 
