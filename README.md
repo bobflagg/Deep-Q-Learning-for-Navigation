@@ -32,26 +32,16 @@ If you would like to run this code locally follow the instructions below.
 
 ## Instructions
 
-I've organized the code into three Python modules, which contain code common to the various solutions, and three Jupyter notebooks containing increasingly more interesting solutions.
+This repo has three Jupyter notebooks containing increasingly more interesting solutions to the [Unity ML Banana-Collector environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector) using extentions to [Q-learning](http://www.cs.rhul.ac.uk/~chrisw/new_thesis.pdf). 
 
-1. **Python Modules**
-    - [model.py](https://github.com/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/model.py): implements an actor policy model as a simple neural network.
-    - [agent.py](https://github.com/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/dqn_agent.py): defines an abstract RL agent for deep Q-learning which will be subclassed in the specific solutions.
-    - [trainer.py](https://github.com/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/trainer.py): implements the method used to train the agents.
-2. **Jupyter Notebooks**
     - [Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/01-Deep-Q-Learning-for-Navigation.ipynb)
     - [Double Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/02-Double-Deep-Q-Learning-for-Navigation.ipynb)
     - [Dueling Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/03-Dueling-Deep-Q-Learning-for-Navigation.ipynb)
 
 You can train an agent to solve the Navigation Environment by executing the cells in the corresponding notebooks.
 
-## Additional Resources
+To avoid repeating too much code I've also included three Python modules capturing code implemented in the first notebook but needed also in later notebooks.
 
-- [Self Learning AI-Agents Part II: Deep Q-Learning](https://towardsdatascience.com/self-learning-ai-agents-part-ii-deep-q-learning-b5ac60c3f47)
-- [double DQN](https://arxiv.org/pdf/1509.06461.pdf)
-- [dueling DQN](https://arxiv.org/pdf/1511.06581.pdf)
-- [prioritized experience replay](https://arxiv.org/pdf/1511.05952.pdf)
-
-## MISC
-
-In follow up notebooks I'll improve on this solution by implementing a  [double DQN](https://arxiv.org/pdf/1509.06461.pdf), a [dueling DQN](https://arxiv.org/pdf/1511.06581.pdf), and [prioritized experience replay](https://arxiv.org/pdf/1511.05952.pdf).
+- [model.py](https://github.com/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/model.py): implements an actor policy model as a simple neural network.
+    - [agent.py](https://github.com/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/dqn_agent.py): defines an abstract RL agent for deep Q-learning which will be subclassed in the specific solutions.
+    - [trainer.py](https://github.com/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/trainer.py): implements the method used to train the agents.
