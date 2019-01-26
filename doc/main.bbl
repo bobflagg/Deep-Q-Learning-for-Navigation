@@ -10,6 +10,13 @@
 \newblock Human-level control through deep reinforcement learning.
 \newblock {\em Nature 518}, 7540, 529--533.
 
+\bibitem[\protect\citename{Schaul et~al\mbox{.}
+  }2015]{DBLP:journals/corr/SchaulQAS15}
+{\sc Schaul, T., Quan, J., Antonoglou, I., and Silver, D.}
+\newblock 2015.
+\newblock Prioritized experience replay.
+\newblock {\em CoRR abs/1511.05952\/}.
+
 \bibitem[\protect\citename{Sutton and Barto }1998]{DBLP:books/lib/SuttonB98}
 {\sc Sutton, R.~S., and Barto, A.~G.}
 \newblock 1998.
@@ -29,5 +36,11 @@
 \newblock 2015.
 \newblock Dueling network architectures for deep reinforcement learning.
 \newblock {\em CoRR abs/1511.06581\/}.
+
+\bibitem[\protect\citename{Watkins }1989]{DBLP:books/lib/WatkinsC1989}
+{\sc Watkins, C. J. C.~H.}
+\newblock 1989.
+\newblock {\em Learning from Delayed Rewards}.
+\newblock University of Cambridge.
 
 \end{thebibliography}
