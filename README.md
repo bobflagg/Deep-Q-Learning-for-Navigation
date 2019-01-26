@@ -37,7 +37,7 @@ This repo has four Jupyter notebooks containing increasingly more interesting so
 - [Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/01-Deep-Q-Learning-for-Navigation.ipynb)
 - [Double Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/02-Double-Deep-Q-Learning-for-Navigation.ipynb)
 - [Dueling Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/03-Dueling-Deep-Q-Learning-for-Navigation.ipynb)
-- [Dueling Double Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/04-Dueling-Double-Deep-Q-Learning-for-Navigation)
+- [Dueling Double Deep Q-Learning for Navigation](https://nbviewer.jupyter.org/github/bobflagg/Deep-Q-Learning-for-Navigation/blob/master/04-Dueling-Double-Deep-Q-Learning-for-Navigation.ipynb)
 
 You can train an agent to solve the Navigation Environment by executing the cells in the corresponding notebooks.
 
